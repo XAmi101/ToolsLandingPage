@@ -52,7 +52,7 @@ body {
   width: 98%;
 }
 .first-section {
-  background-color: #dff5f2;
+  background-color: #DFF5F2;
   color: #0d1926;
 }
 .first-section .landing {
@@ -60,9 +60,9 @@ body {
 }
 .first-section h1 {
   font-size: 4rem;
-  color: #111e2e;
+  color: #111E2E;
   text-decoration: underline;
-  filter: drop-shadow(0 0 0.3px #273b45);
+  filter: drop-shadow(0 0 0.3px #273B45);
 }
 .first-section p {
   font-size: 1.7rem;
@@ -108,7 +108,7 @@ header nav a:hover {
   transform: scale(1.025);
 }
 header nav .lite {
-  border: 1px solid #e19f20;
+  border: 1px solid #E19F20;
   width: 100px;
   border-radius: 50px;
   text-align: center;
@@ -128,17 +128,22 @@ main h2 {
 }
 .figure {
   padding: 20px;
-  filter: drop-shadow(0 0 7px #273b45);
+  filter: drop-shadow(0 0 7px #273B45);
+}
+.tools {
+  clip-path: polygon(18% 42%, 80% 0%, 100% 100%, 0% 100%);
+  padding: 10px;
+  clip-path: padding: 10px;
 }
 .btn {
   border-radius: 0.8rem;
-  background-color: #e19f20;
-  color: #0a141e;
+  background-color: #E19F20;
+  color: #0A141E;
   width: 11rem;
   padding: 1rem 1.8rem;
   background-color: #ffd262;
   border-color: #e4b34f;
-  box-shadow: 0 0 3px #273b45;
+  box-shadow: 0 0 3px #273B45;
 }
 .middle-section {
   background-color: #f7f7f7;
@@ -151,7 +156,7 @@ main h2 {
   margin: 0;
 }
 .botm {
-  background-color: #dbece8;
+  background-color: #DBECE8;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -214,12 +219,12 @@ h3 {
   transform: scale(1.025);
 }
 .package .header {
-  background-color: #273b45;
+  background-color: #273B45;
   color: #fff;
   font-size: 1.5rem;
 }
 .package .highlight {
-  background-color: #a3eadd;
+  background-color: #A3EADD;
 }
 .package li {
   background-color: #fff;
@@ -232,15 +237,15 @@ h3 {
   font-size: 1.25rem;
 }
 .btn2 {
-  background-color: #a3eadd;
+  background-color: #A3EADD;
   border: none;
   border-radius: 0.8rem;
-  color: #273b45;
+  color: #273B45;
   cursor: pointer;
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
-  box-shadow: 0 0 3px #273b45;
-  text-shadow: 0 0 20px #273b45;
+  box-shadow: 0 0 3px #273B45;
+  text-shadow: 0 0 20px #273B45;
 }
 @media (max-width: 880px) {
   button {
@@ -364,7 +369,7 @@ ul {
   font-size: 1.2rem;
 }
 button {
-  background-color: #f7be16;
+  background-color: #F7BE16;
   border: none;
   color: white;
   padding: 15px 32px;
